@@ -400,6 +400,10 @@ section {
 /*--------------------------------------------------------------
 # Akills
 --------------------------------------------------------------*/
+.skills div img{
+  width: 2.5rem;
+  height: auto;
+}
 .skills .progress {
   height: 60px;
   display: block;
@@ -813,6 +817,7 @@ section {
 --------------------------------------------------------------*/
 .contact {
   padding-bottom: 130px;
+  background-color: #f6fafe;
 }
 
 .contact .info {
