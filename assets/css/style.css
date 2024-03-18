@@ -668,7 +668,7 @@ section {
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
-.services .icon-box {
+/* .services .icon-box {
   margin-bottom: 20px;
 }
 
@@ -718,12 +718,12 @@ section {
   margin-left: 80px;
   line-height: 24px;
   font-size: 14px;
-}
+} */
 
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
-.testimonials .testimonials-carousel,
+/* .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
   overflow: hidden;
 }
@@ -810,14 +810,13 @@ section {
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #149ddd;
-}
+} */
 
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
 .contact {
   padding-bottom: 130px;
-  background-color: #f6fafe;
 }
 
 .contact .info {
